@@ -1,1 +1,3 @@
 git push first!
+
+git checkout -b dev
